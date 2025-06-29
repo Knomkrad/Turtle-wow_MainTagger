@@ -35,7 +35,11 @@ Unzip MainTagger in your Addons folder
 Commands:
 /mtc 
 /maintaggerconfig
-/mainname YourMainCharacterName
-/mainclass YourMainCharacterClass
+
+![image](https://github.com/user-attachments/assets/4971c30b-fa35-4684-9e6a-a48a54310f47)
 
 Now if you send a message in guild chat or whisper somebody it will add your main character name in the chat. 
+
+![image](https://github.com/user-attachments/assets/570d9b9b-e5ad-4520-b82c-6f91f10d88d8)
+
+
