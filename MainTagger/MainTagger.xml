@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Frame name="CloseButton" parent="UIParent" width="16" height="16">
+    <Anchors>
+      <Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" x="-5" y="0" />
+    </Anchsers>
+    <Script>
+      local button = self
+      button:SetNormalTexture([[Interface\BUTTONS\WHITE8-MED"])
+      button:GetNormalTexture():SetVertexColor(1, 0.7, 0)
+      button:EnableMouse(true)
+      button:RegisterForClicks("AnyUp")
+      button:SetScript("OnClick", function() frame:Hide() end)
+    </Script>
+  </Frame>
+</Ui>
