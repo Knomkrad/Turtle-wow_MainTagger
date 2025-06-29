@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: MainTagger
+## Notes: Adds your main character name to guild chat messages.
+## Author: Knomkrad
+## Version: 2.5
+## SavedVariables: MainTaggerDB
+
+MainTagger.lua
