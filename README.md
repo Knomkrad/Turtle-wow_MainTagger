@@ -1,5 +1,6 @@
 # Turtle-wow_MainTagger
 Print your Main character name in Guild and whisper chat if you are on an Alt or have some fun if you are on your main character. 
+
 If your guild uses  pfUI-autoinvite (https://github.com/BahamutxD/pfUI-autoinvite)  than you can set the string to prevent the changing of the chat message so auto invite works.
 
 Version: 1.1 
